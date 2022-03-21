@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    margin-top:10%;
+    background-color: snow;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius:5%;
+}
+
+input{
+    width: 60%;
+    height: 10%;
+    margin-bottom:2%;
+}
